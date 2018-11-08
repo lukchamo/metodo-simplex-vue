@@ -1,5 +1,5 @@
 # Método Simplex Vue
-## Universidad Autonoma del Caribe
+## Universidad Autónoma del Caribe
 
 Desarrollo para la resolución por medio del *Metodo Simplex*. Usando el poderoso framework VueJS
 
